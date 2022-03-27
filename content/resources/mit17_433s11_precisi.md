@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 96247d24-7910-4579-5977-6cb39e3d1a76
 resourcetype: Document
 title: "Pr\xE9cis I Book List"
 uid: c8269a71-c6fa-c0d2-0ed5-85fecbd5b72d
