@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on assignments for undergraduate and
+  graduate students in the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,6 +26,6 @@ Précis Assignment
 
 A précis is short and concise summary of a scholarly book, approximately 600 words in length. A précis should capture the essence of a longer argument, summarizing the argument, theory and data presented by the work's author. A précis is not a book review or a critique. Each précis will be shared with the rest of the class.
 
-Précis I book list ([PDF]({{< baseurl >}}/resources/mit17_433s11_precisi))
+Précis I book list ({{% resource_link c8269a71-c6fa-c0d2-0ed5-85fecbd5b72d "PDF" %}})
 
-Précis II book list ([PDF]({{< baseurl >}}/resources/mit17_433s11_precisii))
+Précis II book list ({{% resource_link 14941a69-e4c1-b662-1a5c-ce8a6d9effb8 "PDF" %}})

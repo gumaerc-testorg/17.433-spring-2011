@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to related resources on Asia sections of
+  publications, English sources from China, and English sources from Japan.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
