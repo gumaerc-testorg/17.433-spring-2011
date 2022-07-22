@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to related resources on Asia sections of
+  publications, English sources from China, and English sources from Japan.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 196c84f4-8de1-a316-b67c-f1fcbed53e21
 ---

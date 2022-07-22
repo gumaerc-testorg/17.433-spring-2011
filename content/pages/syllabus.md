@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, textbook, undergraduate requirements, and graduate requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a221e222-2c9f-dcd8-0c16-78a07647b8a5
 ---
