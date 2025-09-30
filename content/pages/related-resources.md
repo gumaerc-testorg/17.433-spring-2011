@@ -11,26 +11,26 @@ uid: 196c84f4-8de1-a316-b67c-f1fcbed53e21
 Asia sections of publications
 -----------------------------
 
-[_The Washington Post_](http://www.washingtonpost.com/world/asia-pacific)
+{{% resource_link "8bb577fc-6970-47b4-9afc-a59224930654" "_The Washington Post_" %}}
 
-[_The New York Times_](http://www.nytimes.com/pages/world/asia/index.html)
+{{% resource_link "acf6d751-ea00-4b62-b6da-8a61f4d0245b" "_The New York Times_" %}}
 
-[_Financial Times_](http://www.ft.com/intl/world/asia-pacific)
+{{% resource_link "0663a770-5ea5-4c57-a37a-625e62263db4" "_Financial Times_" %}}
 
-[BBC News](http://www.bbc.co.uk/news/world/asia/)
+{{% resource_link "c95bd2a2-4251-437a-aa23-19023b6b3706" "BBC News" %}}
 
-[Pacific Forum: Comparative Connections](http://csis.org/program/comparative-connections)
+{{% resource_link "33048f21-7f57-4f65-9a1b-63bb1f575367" "Pacific Forum: Comparative Connections" %}}
 
 English sources from China
 --------------------------
 
-[Xinhua](http://www.chinaview.cn/)
+{{% resource_link "78874d98-833d-4c5a-a870-2fe124621cca" "Xinhua" %}}
 
-[China Daily](http://usa.chinadaily.com.cn/)
+{{% resource_link "d24d8420-e0bb-4478-a581-06be40e946db" "China Daily" %}}
 
 English sources from Japan
 --------------------------
 
-[The Asahi Shimbun](http://www.asahi.com/english/)
+{{% resource_link "19222df1-a432-4b25-9d8c-8f8be5996fa4" "The Asahi Shimbun" %}}
 
-[Japan Today](http://www.japantoday.com/)
+{{% resource_link "893d4bb3-36fb-465d-9dd8-dcc5460f5e2c" "Japan Today" %}}
